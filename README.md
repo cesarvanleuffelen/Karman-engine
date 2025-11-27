@@ -1,4 +1,4 @@
-# Project Specification: The Kármán Engine
+# The Kármán Engine
 **Language Target:** Rust or C/C++
 **Objective:** High-fidelity 6-DOF Aerospace Physics Simulation
 
