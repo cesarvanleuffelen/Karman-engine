@@ -1,3 +1,9 @@
+fn deltatime() {
+    println!("value");
+}
+
+// fn solver() {}
+
 fn main() {
-    println!("Hello, world!");
+    deltatime();
 }
